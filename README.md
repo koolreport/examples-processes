@@ -7,7 +7,7 @@ This repository contains KoolReport examples for data source types
 Clone or download the repository source code into your machine:
 
 ```
-git clone https://github.com/koolreport/examples-datasources.git
+git clone https://github.com/koolreport/examples-processes.git
 ```
 If you have not installed KoolReport, go to the source code directory and run composer to install KoolReport:
 
