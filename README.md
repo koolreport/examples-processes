@@ -12,7 +12,7 @@ git clone https://github.com/koolreport/examples-processes.git
 If you have not installed KoolReport, go to the source code directory and run composer to install KoolReport:
 
 ```
-cd path/to/examples-datasources
+cd path/to/examples-processes
 composer install
 ```
 
