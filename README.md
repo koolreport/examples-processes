@@ -2,6 +2,8 @@
 
 This repository contains KoolReport examples for data source types
 
+* Demo: [https://www.koolreport.com/examples-processes](https://www.koolreport.com/examples-processes)
+
 # Installation
 
 Clone or download the repository source code into your machine:

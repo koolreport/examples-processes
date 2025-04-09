@@ -18,7 +18,7 @@ class MyReport extends \koolreport\KoolReport
         return array(
             "dataSources" => array(
                 "dollarsales"=>array(
-                    'filePath' => '../../../databases/customer_product_dollarsales2.csv',
+                    'filePath' => '../../../data/customer_product_dollarsales2.csv',
                     'fieldSeparator' => ';',
                     'class' => "\koolreport\datasources\CSVDataSource"      
                 ), 
