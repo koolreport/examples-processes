@@ -1,8 +1,11 @@
 # Introduction
 
-This repository contains KoolReport examples for data source types
+This repository contains KoolReport examples for processes.
 
-* Demo: [https://www.koolreport.com/examples-processes](https://www.koolreport.com/examples-processes)
+Demo: [https://www.koolreport.com/examples-processes](https://www.koolreport.com/examples-processes)
+
+
+![index](index.png)
 
 # Installation
 
@@ -27,7 +30,7 @@ require_once "path/to/vendor/autoload.php";
 // require_once "path/to/koolreport/core/autoload.php";
 ```
 
-Finally, put the repository source code on your web server and serve it
+Finally, put the repository source code on your web server to serve it
 
 # Source code structure
 
