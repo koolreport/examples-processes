@@ -4,8 +4,7 @@ This repository contains KoolReport examples for processes.
 
 Demo: [https://www.koolreport.com/examples-processes](https://www.koolreport.com/examples-processes)
 
-
-![index](index.png)
+![examples-processes](examples-processes.png)
 
 # Installation
 

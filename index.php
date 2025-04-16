@@ -149,7 +149,7 @@
                     <div class="col-md-3 example-group col-sm-6">
                         <h5>
                             <?php if ($hasChildArray) { ?>
-                                <i class='fa fa-minus-square-o' data-toggle="collapse" onclick="toggleExpandCollapseAll(this);"></i>
+                                <i class='fa fa-minus-square-o' onclick="toggleExpandCollapseAll(this);"></i>
                             <?php } ?>
                             <?php echo (strpos($group_name, "</i>") > 0) ? $group_name : "<i class='icon-layers'></i>$group_name"; ?></h5>
                         <ul class="list-unstyled">
